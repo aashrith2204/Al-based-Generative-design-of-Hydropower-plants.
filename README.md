@@ -211,3 +211,15 @@ Department of Computer Science & Engineering
 7th Semester Capstone Project
 📘 Title: *AI-Based Generative Design of Hydropower Plants*
 © 2025 – All rights reserved.
+
+**Harsha P**
+Department of Computer Science & Engineering
+7th Semester Capstone Project
+📘 Title: *AI-Based Generative Design of Hydropower Plants*
+© 2025 – All rights reserved.
+
+**Narayana A**
+Department of Computer Science & Engineering
+7th Semester Capstone Project
+📘 Title: *AI-Based Generative Design of Hydropower Plants*
+© 2025 – All rights reserved.
