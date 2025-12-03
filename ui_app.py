@@ -59,6 +59,7 @@ FIELDS = {
         ("Crane Gauge", "crane_gauge", "float", 2.0, 1.0, 4.0),
         ("Crane Span XPad", "crane_span_xpad", "float", 1.0, 0.5, 3.0),
     ]
+    
 }
 
 # ------------------------------
